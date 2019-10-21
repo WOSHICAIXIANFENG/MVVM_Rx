@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyMuseumMap</string>
+    <string name="empty_list">There is no museum found</string>
+    <string name="an_error_occurred">Something went wrong</string>
+</resources>
